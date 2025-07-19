@@ -13,7 +13,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/fslib": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
     "clipanion": "^4.0.0-rc.2",
     "lodash": "^4.17.15",
     "tau-prolog": "^0.2.66",
