@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/semver": "^7.1.0",
-    "@yarnpkg/fslib": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
     "clipanion": "^4.0.0-rc.2",
     "git-url-parse": "^13.1.0",
     "lodash": "^4.17.15",
