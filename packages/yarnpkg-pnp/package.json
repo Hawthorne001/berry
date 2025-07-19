@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^18.17.15",
-    "@yarnpkg/fslib": "workspace:^"
+    "@yarnpkg/fslib": "2.1.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
