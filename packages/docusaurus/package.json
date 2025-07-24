@@ -23,7 +23,7 @@
     "@xterm/addon-serialize": "^0.13.0",
     "@xterm/headless": "^5.5.0",
     "@xterm/xterm": "^5.5.0",
-    "@yarnpkg/builder": "workspace:^",
+    "@yarnpkg/builder": "2.1.0",
     "@yarnpkg/cli": "workspace:^",
     "@yarnpkg/core": "workspace:^",
     "@yarnpkg/fslib": "workspace:^",
