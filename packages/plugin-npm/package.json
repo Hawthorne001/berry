@@ -8,7 +8,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/fslib": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
     "enquirer": "^2.3.6",
     "es-toolkit": "^1.39.7",
     "semver": "^7.1.2",
