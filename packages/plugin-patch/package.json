@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/libzip": "workspace:^",
+    "@yarnpkg/libzip": "2.1.0",
     "clipanion": "^4.0.0-rc.2",
     "tslib": "^2.4.0"
   },
