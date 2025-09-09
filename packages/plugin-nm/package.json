@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/libzip": "workspace:^",
+    "@yarnpkg/libzip": "2.1.0",
     "@yarnpkg/nm": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
-    "@yarnpkg/plugin-pnp": "workspace:^",
+    "@yarnpkg/plugin-pnp": "2.1.0",
     "@yarnpkg/pnp": "workspace:^",
     "@zkochan/cmd-shim": "^5.1.0",
     "clipanion": "^4.0.0-rc.2",
