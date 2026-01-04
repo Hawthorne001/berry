@@ -54,7 +54,7 @@
     "prism-react-renderer": "^2.3.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-instantsearch": "^7.15.5",
+    "react-instantsearch": "^7.22.1",
     "react-json-doc": "^2.3.4",
     "react-loading-skeleton": "^3.3.1",
     "react-modal": "^3.16.3",
