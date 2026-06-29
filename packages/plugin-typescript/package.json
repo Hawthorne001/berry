@@ -8,8 +8,8 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/plugin-pack": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
+    "@yarnpkg/plugin-pack": "2.1.0",
     "algoliasearch": "^4.2.0",
     "semver": "^7.1.2",
     "tslib": "^2.4.0"
