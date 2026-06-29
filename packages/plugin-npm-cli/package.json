@@ -8,7 +8,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/fslib": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
     "clipanion": "^4.0.0-rc.2",
     "enquirer": "^2.3.6",
     "micromatch": "^4.0.2",
