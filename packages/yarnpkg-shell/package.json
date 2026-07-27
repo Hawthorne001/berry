@@ -10,7 +10,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/fslib": "workspace:^",
+    "@yarnpkg/fslib": "2.1.0",
     "@yarnpkg/parsers": "workspace:^",
     "chalk": "^4.1.2",
     "clipanion": "^4.0.0-rc.2",
