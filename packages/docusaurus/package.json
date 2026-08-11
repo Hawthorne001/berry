@@ -46,7 +46,7 @@
     "git-url-parse": "^13.1.0",
     "github-markdown-css": "^5.1.0",
     "jiti": "^1.21.0",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "marked": "^5.1.1",
     "monaco-editor": "^0.24.0",
     "os-browserify": "^0.3.0",
@@ -54,7 +54,7 @@
     "prism-react-renderer": "^2.3.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-instantsearch": "^7.15.5",
+    "react-instantsearch": "^7.22.1",
     "react-json-doc": "^2.3.4",
     "react-loading-skeleton": "^3.3.1",
     "react-modal": "^3.16.3",
@@ -72,7 +72,7 @@
     "typescript": "catalog:",
     "unist-util-visit-parents": "^6.0.1",
     "usehooks-ts": "^3.1.1",
-    "webpack": "^5.88.2"
+    "webpack": "^5.104.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
